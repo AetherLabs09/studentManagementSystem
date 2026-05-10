@@ -1,0 +1,10 @@
+/.classpath
+/.launch
+/.project
+/.settings
+/*.launch
+/*.tmproj
+/*.iml
+/ivy*
+/eclipse
+/target
